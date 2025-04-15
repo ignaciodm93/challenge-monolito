@@ -34,7 +34,11 @@ Proyecto realizado con **Spring Boot** y **Docker**, orientado a la gestión de 
 - Tener instalados:
   - **Redis**
   - **MongoDB**
-
+  - Correr:
+	`mvn clean compile`
+	`mvn install`
+	`mvn spring-boot:run`
+	
 ### Con Docker:
 
 - Tener instalado:
